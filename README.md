@@ -10,12 +10,15 @@ Ability to deposite and withdrawal money
 Ability to sort cash transaction in order
 Cross platform
 
+## Tech Stack Used
+
+HTML , CSS , JAVASCRIPT
 
 ## Demo Link
 
 https://bankist-orcin.vercel.app/
 
-##Demo User
+Demo User
 
 UID : js , Password: 1111 
 
