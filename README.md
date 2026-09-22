@@ -20,5 +20,7 @@ https://bankist-orcin.vercel.app/
 
 Demo User
 
-UID : js , Password: 1111 
-
+- User1 - login: js, PIN: 1111.
+- User2 - login: jd, PIN: 2222.
+- User3 - login: stw, PIN: 3333.
+- User4 - login: ss, PIN: 4444.
