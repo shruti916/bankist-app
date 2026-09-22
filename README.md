@@ -1,6 +1,21 @@
-# bankist-app
-Link : https://bankist-orcin.vercel.app/
+# BANKIST APP
 
-Demo User: UID : js , Password: 1111 
+The Bankist App appears to be a simple, minimalist online banking application. It allows users to log in to their bank account and view their balance, transactions, and account details. The app also provides features for making transfers, deposits, and withdrawals, as well as the ability to lend money to other users.
 
-A Display of Bank Website where a client can perform monetary task.
+## Features
+
+Ability to Login and Close account
+Ability to transfer money
+Ability to deposite and withdrawal money
+Ability to sort cash transaction in order
+Cross platform
+
+
+## Demo Link
+
+https://bankist-orcin.vercel.app/
+
+##Demo User
+
+UID : js , Password: 1111 
+
