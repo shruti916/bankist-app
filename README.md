@@ -4,11 +4,11 @@ The Bankist App appears to be a simple, minimalist online banking application. I
 
 ## Features
 
-Ability to Login and Close account
-Ability to transfer money
-Ability to deposite and withdrawal money
-Ability to sort cash transaction in order
-Cross platform
+- Ability to Login and Close account
+- Ability to transfer money
+- Ability to deposite and withdrawal money
+- Ability to sort cash transaction in order
+- Cross platform
 
 ## Tech Stack Used
 
